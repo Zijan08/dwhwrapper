@@ -27,7 +27,7 @@ Copyright 2012 Felix Barbalet, Corporate Analytics, Australian Taxation Office, 
 Released under the GPL (v3)
 Copyright retained by Corporate Analytics, Australian Taxation Office, Commonwealth of Australia
 
-Requires: python 2.6, Teradata linux_cliv2, Teradata BTEQ
+Requires: python 2.6 or 2.7, Teradata linux_cliv2, Teradata BTEQ
 Optional: Teradata fastexp, fastld and mload
 
 Tested using Teradata utilities version 13
